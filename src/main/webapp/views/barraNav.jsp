@@ -1,7 +1,7 @@
 <div class="container">
 	<nav class="navbar navbar-expand-lg bg-light">
 		<div class="container-fluid">
-			APR
+			<h4>APR</h4>
 			<button class="navbar-toggler" type="button"
 				data-bs-toggle="collapse" data-bs-target="#navbarNav"
 				aria-controls="navbarNav" aria-expanded="false"
